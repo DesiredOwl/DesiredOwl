@@ -1,21 +1,14 @@
-<!-- Profile Banner (optional) -->
-<!-- Replace with your own banner image URL -->
-<!-- <img src="https://your-banner-url.com/banner.png" alt="banner" width="100%"/> -->
+# Hi there, I'm Rhein Alrhey Zamora 👋
 
-# Hi there, I'm [Your Name] 👋
+### 🎓 Computer Engineering Graduate | Major in Embedded Systems
 
-### 🎓 Computer Engineering Graduate | 🤖 Embedded Systems & Industrial Automation Enthusiast
-
-I specialize in **hardware-software integration**, combining hands‑on industrial automation (PLC, Ladder Logic) with full‑stack application development. I enjoy building systems that bridge the physical and digital worlds.
+I specialize in **hardware-software integration**, combining hands‑on industrial automation (PLC, Ladder Logic) with full‑stack application development. I enjoy building hardware and software systems.
 
 ---
 
 ## 👨‍💻 About Me
-
-- 🔭 **Currently seeking**: Entry‑level technical roles in PLC programming, embedded systems, or hardware/software development.
-- 🌱 **Learning**: Advanced PLC programming, IoT integration, and cloud‑connected industrial systems.
-- ⚡ **Fun fact**: I love diagnosing and fixing both electrical circuits and software bugs – the satisfaction is the same!
-
+- 🌱 **Learning**: Advanced PLC programming, IoT integration, Advanced Security for web development and AWS.
+- ⚡ **Fun fact**: I love diagnosing and fixing both electrical circuits and software bugs
 ---
 
 ## 🛠️ Skills & Tools
@@ -40,7 +33,7 @@ I specialize in **hardware-software integration**, combining hands‑on industri
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
 - **Industrial Automation & PLC Systems**  
   Programmed and configured industrial automation systems using PLCs, developing **Ladder Logic networks** to streamline sequence controls and machinery operations.
@@ -48,7 +41,7 @@ I specialize in **hardware-software integration**, combining hands‑on industri
 - **Electrical Installation & Maintenance**  
   Designed and wired industrial circuits following standard **Electrical Installation and Maintenance (EIM)** practices, including hands‑on troubleshooting of electrical panels and control wiring.
 
-- **Fluid Power Systems**  
+- **Pneumatic Systems**  
   Maintained and troubleshot fluid power systems by diagnosing and repairing **electro‑pneumatic components**, sensors, and actuators to minimize equipment downtime.
 
 - **Technical Diagnostics & Inventory Management**  
@@ -79,10 +72,5 @@ Designed and deployed a cloud‑based **relational database (MySQL on Aiven)**, 
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
-
----
-
-⭐️ *Feel free to explore my repositories and reach out if you'd like to collaborate on a project or discuss opportunities!*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhein-alrhey-zamora-a46505356/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rheinalrheyzamora@outlook.com)
